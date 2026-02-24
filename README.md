@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hair Day – Plataforma de Agendamentos</h1>
+<h1 align="center"> Hair Day – Plataforma de Agendamentos</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" />
